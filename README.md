@@ -6,9 +6,6 @@ This is a simple implementation of an ERC20 token built using Solidity.
 
 Here is the Solidity code for the ERC20 token:
 
-```solidity
-// SPDX-License-Identifier: MIT
-// This code was generated with the assistance of an AI from OpenAI.
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
